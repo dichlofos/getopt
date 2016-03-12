@@ -1,4 +1,4 @@
-NGetopt::OptParser
+NGetOpt::OptParser
 ==================
 
 Simple C++ command line arguments interperter written in pure plain old C++
